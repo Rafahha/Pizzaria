@@ -1,5 +1,5 @@
 # Projeto_pizzaria
-Curso Senac -- Programador Web --  
+-- Programador Web --  
 Projeto Pizzaria
 WebSite
 .HTML .CSS
